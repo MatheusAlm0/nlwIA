@@ -5,7 +5,7 @@ Aplicação que converte um vídeo Shorts do youtube em texto resumido.<br/>
 </p>
 
 <p align="center">
-  <img alt="" src="/github/shortsSummary" width="100%">
+  <img alt="" src="./.github/shortsSummary.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
