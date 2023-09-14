@@ -23,5 +23,3 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 Shorts Summary é uma aplicação de ponta a ponta integrada entre Front-end e Back-end.
 
 
-- [Acesse o projeto finalizado, online](https://matheusalm0.github.io/nlwia/)
----
